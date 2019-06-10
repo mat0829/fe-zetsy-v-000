@@ -3,8 +3,8 @@ Zetsy
 
 <!-- featured image -->
 [necklace.jpg]
-<img src="../images/my_company_logo.png">
-<img src="./images/necklace.jpg">
+<img src="../images/necklace.jpg">
+<img src=".">
 <!-- level 2 header -->
 About
 
