@@ -3,7 +3,7 @@ Zetsy
 
 <!-- featured image -->
 [necklace.jpg]
-
+<img src="./images/the_prosciutto_concern.jpg">
 <!-- level 2 header -->
 About
 
