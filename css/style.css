@@ -1,6 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+<link rel="stylesheet" href="relative path to CSS file">
 @font-face {
 	font-family: 'Baskerville';
 	src: url(../fonts/Baskerville.ttc);
