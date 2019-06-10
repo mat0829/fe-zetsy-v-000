@@ -3,7 +3,7 @@ Zetsy
 
 <!-- featured image -->
 [necklace.jpg]
-<img src="./images/necklace.jpg"> alt="necklace">
+
 <!-- level 2 header -->
 About
 
