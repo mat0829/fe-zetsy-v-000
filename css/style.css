@@ -2,8 +2,8 @@
 
 /* link the web font used for the level 1 heading here */
 h1 {
-  
-  font-family: Baskerville
+  color: 98ada6;
+  font-family: Baskerville;
 }
 /*////////// Global Styles //////////*/
 
