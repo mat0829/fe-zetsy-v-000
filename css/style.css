@@ -2,7 +2,6 @@
 
 /* link the web font used for the level 1 heading here */
 @font-face {
-  font-size: 5em;
   font-family: "Baskerville";
   src: url(fonts/Baskerville.ttc);
 }
